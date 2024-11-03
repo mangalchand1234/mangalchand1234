@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mangalchand1234
 - 👀 I’m interested in pharma-IT
-- 🌱 I’m currently learning data science (python , R
+- 🌱 I’m currently learning data science (python , R)
 - 📫 How to reach me _Here is the email id : s.mangalchand1234@gmail.com
 
 
